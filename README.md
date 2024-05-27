@@ -8,7 +8,7 @@ To use the code in this repository, follow these steps:
 - Ensure you have the required Python libraries installed. You can install the necessary dependencies using.
 - Run the Python script to preprocess the data and train the model.
 - Follow the instructions in the script to load the dataset (Forest_fire.csv), preprocess the data, and build the forest fire detection model.
-- 
+  
 # Key Features
 - Data Preprocessing: Cleaning and preparing the dataset for modeling, including image augmentation and normalization.
 - Model Building: Implementing a Convolutional Neural Network (CNN) to detect forest fires from images.
