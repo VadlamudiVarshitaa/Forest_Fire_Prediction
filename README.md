@@ -1,5 +1,5 @@
 # Forest_Fire_Prediction 
-        This project leverages Convolutional Neural Networks (CNNs) to develop an efficient system for early detection of forest fires. Early detection is crucial in preventing wildfires, which can cause significant damage to natural resources and human life. By utilizing advanced machine learning techniques, this project aims to create a robust model that can accurately detect forest fires from images, thereby aiding in prompt and effective intervention.
+   This project leverages Convolutional Neural Networks (CNNs) to develop an efficient system for early detection of forest fires. Early detection is crucial in preventing wildfires, which can cause significant damage to natural resources and human life. By utilizing advanced machine learning techniques, this project aims to create a robust model that can accurately detect forest fires from images, thereby aiding in prompt and effective intervention.
 
 # How to Use the Code
 To use the code in this repository, follow these steps:
